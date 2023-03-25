@@ -15,7 +15,7 @@ Dataset ini berisi 2 dataset yaitu data jumlah penyewaan sepeda per jam dan per 
 beserta dengan informasi musim, hari libur dan juga cuaca yang diambil dari http://www.freemeteo.com.
 
 ## Dashboard
-*Dashboard* dibuat dengan menggunakan Tableau. *Dashboard* dapat di lihat pada link ini.
+*Dashboard* dibuat dengan menggunakan Tableau. *Dashboard* dapat di lihat pada [link](https://public.tableau.com/app/profile/irvan7682/viz/CapitalBikeshare_16345514502550/Dashboard1?publish=yes) ini.
 
 ## Dokumen
 - Readme.txt
